@@ -2,7 +2,7 @@ import type { Component } from 'solid-js';
 
 const App: Component = () => {
   return (
-    <div class="bg-white">
+    <div class="bg-white h-screen">
       <p class="text-4xl text-black text-center py-20">Hello World!</p>
       <p class="text-4xl text-black/70 text-center py-20">Start prompting to see changes</p>
     </div>
